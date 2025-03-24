@@ -9,9 +9,7 @@ void input()
     // Prodecure Input
     while (true)
     {
-        cout << "Masukan Jumlah Data pada Array : "; // Membuat inputan jumlah elemen Array
-        cin >> n; // Memanggil variabel inputan n
-
+        
         if (n <= 20)
         {
             // Membuat Kondisi n tidak Lebih dari 20
