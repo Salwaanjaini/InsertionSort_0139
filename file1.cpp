@@ -38,7 +38,10 @@ void input()
 
 void insertionSort()
 {
-   
+    // Prodecure InsertionSort
+    int temp; // Membuat variabel data temporer atau penyimpanan sementara
+    int i,j; // Membuat variabel j sebagai penanda
+
     for (i = 1; i <=n - 1; i++)
     {
         // Step 1
